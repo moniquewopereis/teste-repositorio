@@ -3,4 +3,8 @@
 
 > Status: em desenvolvimento
 
-<h1>Conhecendo a plataforna</h1>
+Esse arquivo é um teste de aprendizado: 
+
+````
+Seja bem-vindo!
+````
